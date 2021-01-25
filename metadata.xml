@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Two Years with the Natives in the Western Pacific</dc:title>
+      <dc:creator>Felix Speiser (1880–1949)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2008-12-21</dc:publisher>
+      <dc:date>2008-12-21</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by Jeroen Hellingman and the Online Distributed Proofreading Team at www.pgdp.net.
+Published in 1913. Felix Speiser was born 20 Oct. 1880, and died 19 Sept. 1949 in Basel, Switzerland.
+An abbreviated Dutch translation of this book appeared in the Dutch magazine De Aarde en haar Volken in 1917 and 1918. This is available from Project Gutenberg in two parts as ebooks number 24649 (part I) and 18023 (part II).
+</dc:rights>
+      <dc:subject>Oceania - Description and travel</dc:subject>
+      <dc:subject>Ethnology - Vanuatu</dc:subject>
+      <dc:subject>Vanuatu - Description and travel</dc:subject>
+      <dc:description>Dr. Felix Speiser (1880–1949) was a Swiss anthropologist, who spend two years studying the population of the New Hebrides, now known as Vanuatu. In this book he describes the results of his research.</dc:description>
+      <dc:identifier>pg:27578</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
